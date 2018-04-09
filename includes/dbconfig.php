@@ -2,7 +2,7 @@
 class Database
 {   
     private $host = "localhost";
-    private $db_name = "oop_db";
+    private $db_name = "infinite-scroll";
     private $username = "root";
     private $password = "";
     public $conn;
